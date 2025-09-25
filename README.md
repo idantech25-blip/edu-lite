@@ -1,15 +1,15 @@
 # edu-lite (ANN)
 
-**ANN** — AI-powered EdTech Platform
+**ANN** AI-powered EdTech Platform
 
 About ANN
 
 ANN is an AI-driven EdTech platform built with Flutter. It aims to revolutionize assessment workflows for teachers by enabling them to:
 
-- Snap or upload answer sheets
-- Automatically grade submissions using AI
-- Instantly generate results
-- Support hybrid marking: mark all scripts online or up to 50 scripts offline (helpful in areas with limited connectivity)
+1. Snap or upload answer sheets
+2. Automatically grade submissions using AI
+3. Instantly generate results
+4. Support hybrid marking: mark all scripts online or up to 50 scripts offline (helpful in areas with limited connectivity)
 
 This project is still in its early stages and is being designed to be scalable, teacher-friendly, and suitable for real classroom use.
 
